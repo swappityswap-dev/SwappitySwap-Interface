@@ -2345,10 +2345,10 @@
     "@svgr/plugin-svgo" "^4.3.1"
     loader-utils "^1.2.3"
 
-"@swappityswap-dev/sdk@1.0.13":
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/@swappityswap-dev/sdk/-/sdk-1.0.13.tgz#9481be29b08a93af5489684682996e8f53c8c704"
-  integrity sha512-e+z3IRNgViWXEsWPOrD84d0UAOoH5KOQ6wk51w+qeEA9JRmRFtnB/ugIFMLpHGbwNV5vtQTv9dy1C8zhk7qJFA==
+"@swappityswap-dev/sdk@1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@swappityswap-dev/sdk/-/sdk-1.0.19.tgz#b31b2265e67bddbe98bad04c70f00d661ab667cf"
+  integrity sha512-onIeQIZTYDvKrrIv/TrKxFV8fO9u3D1DunzsA0I4a3dI6pHrMYVC1Tdfxiymb9YKekXND05GqHja9LmABQeB2g==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
